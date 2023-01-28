@@ -17,10 +17,6 @@ public class Utils {
         System.out.println();
     }
 
-    public static int[] dynamicArray(int[] arr) {
-        return null;
-    }
-
     public static int userInput() {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Please enter a number between 1 and 6");
