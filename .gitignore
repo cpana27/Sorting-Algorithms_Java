@@ -22,6 +22,14 @@ bin/
 /nbdist/
 /.nb-gradle/
 
+###Intelij###
+/out
+.idea/**/workspace.xml
+.idea/**/tasks.xml
+.idea/**/usage.statistics.xml
+.idea/**/dictionaries
+.idea/**/shelf
+
 ### VS Code ###
 .vscode/
 
